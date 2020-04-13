@@ -9,8 +9,8 @@ body{
   /* grid-template-columns: 25% 50% 25%;
   grid-template-rows: 300px 300px; */
   /* grid-template: 350px 100px 200px / 100px 200px 100px; */
-  /* grid-template: 350px 100px 200px / minmax(200px, 1fr) 1fr 1fr; */
-    grid-template: 350px 100px 200px / 1fr;
+  grid-template: 350px 100px 200px / minmax(200px, 1fr) 1fr 1fr;
+  /* grid-template: 350px 100px 200px / 1fr; */
   text-align: center;
   grid-gap: 30px 70px;
 }
