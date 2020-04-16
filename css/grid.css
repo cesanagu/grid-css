@@ -53,6 +53,10 @@ body{
   display: inline-block;
 }
 
+.post-comments img, .post-likes img{
+  width: 80px;
+}
+
 @media screen and (max-width:768px) {
 
 .post-list{
